@@ -5,7 +5,7 @@
 > </div>
 
 <p align="center">
-  <img src="Exploratory Data Analysis/EDA Visual.png" alt="EDA Visual" width="400" height="500"/>
+  <img src="EDA Visual.png" alt="EDA Visual" width="400" height="500"/>
 </p>
 
 ### Welcome to the **EDA module** of this machine learning repository.
