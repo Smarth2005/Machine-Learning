@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img src="Exploratory Data Analysis/Images/My Handbook title.png" alt="Data Demystified Cover" width="600"/>
+  <img src="Images/My Handbook title.png" alt="Data Demystified Cover" width="600"/>
 </p>
 
 <div align="justify">
@@ -25,7 +25,7 @@ This is not a mere cookbook of syntax. It is a guided journey through:
 - Shaping data for compatibility, consistency, and clarity  
 </div>
 <p align="center">
-  <img src="Exploratory Data Analysis/Images/Workflow.png" alt="Data Demystified Cover" width="600"/>
+  <img src="Images/Workflow.png" alt="Data Demystified Cover" width="600"/>
 </p>
 
 ### 🔍 Section 1: Exploratory Data Analysis (EDA)
