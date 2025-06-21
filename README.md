@@ -19,4 +19,6 @@ Whether you're a student, educator, or enthusiast, I hope these hands-on impleme
 ### Repository Structure
 
 - `Regression/` – Linear Regression  
-- `Classification/` – Logistic Regression, KNN, Decision Trees, SVM  
+- `Classification/` – Logistic Regression, KNN, Decision Trees, SVM
+- `Exploratory Data Analysis/` - Hands-on implementation of EDA and data preprocessing techniques.
+- `Datasets/` -  Contains all datasets used in any Jupyter notebook or script within this repository. This ensures a single, organized location for raw, processed, or external data files used across EDA, modeling, and analysis tasks.
